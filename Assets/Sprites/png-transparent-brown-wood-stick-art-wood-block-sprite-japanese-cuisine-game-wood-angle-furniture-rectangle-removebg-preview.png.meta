@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 7ed88a37477491b4b9ea3201e781d8f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2658265417851010303
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_0
+  - first:
+      213: -7623892101096923143
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_1
+  - first:
+      213: 125458289222338379
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_2
+  - first:
+      213: -3048834269834415949
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_3
+  - first:
+      213: 6405145057917838586
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_4
+  - first:
+      213: 1790006545106290023
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_5
+  - first:
+      213: -8581361091559544471
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_6
+  - first:
+      213: -1402805471285987827
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_7
+  - first:
+      213: 496350031160797778
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_8
+  - first:
+      213: 2575671809506071874
+    second: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 443
+        width: 267
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf6bd305e04e420800000000000000
+      internalID: 2658265417851010303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 379
+        width: 363
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1634f68e723690800000000000000
+      internalID: -7623892101096923143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 459
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c93b36a7bdb100800000000000000
+      internalID: 125458289222338379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 242
+        width: 175
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b07b7f826d50b5d0800000000000000
+      internalID: -3048834269834415949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 196
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4aa088e75a3e850800000000000000
+      internalID: 6405145057917838586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 93
+        width: 41
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7654faa087167d810800000000000000
+      internalID: 1790006545106290023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 14
+        width: 41
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9692c30ad81e8e880800000000000000
+      internalID: -8581361091559544471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 173
+        width: 120
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0636033bdb388ce0800000000000000
+      internalID: -1402805471285987827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 90
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae79b39b363e600800000000000000
+      internalID: 496350031160797778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-brown-wood-stick-art-wood-block-sprite-japanese-cuisine-game-wood-angle-furniture-rectangle-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d89f3ddf9eb320800000000000000
+      internalID: 2575671809506071874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
