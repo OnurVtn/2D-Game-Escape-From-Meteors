@@ -1,4 +1,4 @@
-# Escape-From-Meteors
+# 2D Game - Escape-From-Meteors
 Unity 2020.3.19f1
 
 
