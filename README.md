@@ -1,4 +1,4 @@
-# 2D Game - Escape From Meteor
+# 2D Game - Escape From Meteors
 Unity 2020.3.19f1
 
 
